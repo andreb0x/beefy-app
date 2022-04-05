@@ -137,7 +137,7 @@ export const fantomPools = [
     withdrawalFee: '0%',
     addLiquidityUrl: '',
     buyTokenUrl: '',
-    createdAt: 99999,
+    createdAt: 1649163107,
   },
   {
     id: 'excalibur-usdc-ust',
@@ -171,7 +171,7 @@ export const fantomPools = [
     withdrawalFee: '0%',
     addLiquidityUrl: '',
     buyTokenUrl: '',
-    createdAt: 99999,
+    createdAt: 1649100032,
   },
   {
     id: 'excalibur-usdc-ftm',
@@ -205,7 +205,7 @@ export const fantomPools = [
     withdrawalFee: '0%',
     addLiquidityUrl: '',
     buyTokenUrl: '',
-    createdAt: 99999,
+    createdAt: 1649109779,
   },
   {
     id: 'excalibur-ftm-ust',
@@ -239,7 +239,7 @@ export const fantomPools = [
     withdrawalFee: '0%',
     addLiquidityUrl: '',
     buyTokenUrl: '',
-    createdAt: 99999,
+    createdAt: 1649111003,
   },
   {
     id: 'excalibur-usdc-weth',
@@ -273,7 +273,7 @@ export const fantomPools = [
     withdrawalFee: '0%',
     addLiquidityUrl: '',
     buyTokenUrl: '',
-    createdAt: 99999,
+    createdAt: 1649111509,
   },
   {
     id: 'excalibur-ftm-weth',
@@ -307,7 +307,7 @@ export const fantomPools = [
     withdrawalFee: '0%',
     addLiquidityUrl: '',
     buyTokenUrl: '',
-    createdAt: 99999,
+    createdAt: 1649157123,
   },
   {
     id: 'excalibur-ftm-btc',
@@ -341,7 +341,7 @@ export const fantomPools = [
     withdrawalFee: '0%',
     addLiquidityUrl: '',
     buyTokenUrl: '',
-    createdAt: 99999,
+    createdAt: 1649162025,
   },
   {
     id: 'tomb-tshare-mai',
