@@ -106,7 +106,7 @@ export const fantomPools = [
     createdAt: 1643754413,
   },
   {
-    id: 'excalibur-ftm-exc',
+    id: 'excalibur-ftm-exc', 
     name: 'FTM-EXC LP',
     token: 'FTM-EXC LP',
     tokenDescription: 'Excalibur',
